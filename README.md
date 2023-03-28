@@ -1,3 +1,4 @@
+#I forked this incase I forget where the original is
 # Qualcomm Sahara / Firehose Attack Client / Diag Tools
 (c) B. Kerler 2018-2022
 
